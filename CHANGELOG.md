@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v3.0.0] - 2019-01-30
+### Added
+- Ported to C#
+- Added USB eject mechanism on exit
+- Streamlined several sections of code
+
 ## [v2.0.0] - 2019-01-27
 ### Added
 - Added OTG configuration capabilities for Pi Zero and Zero W
