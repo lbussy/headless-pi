@@ -5,4 +5,4 @@ A small application to configure a new Raspbian SD card for headless network ope
 
 A complete guide to setting up a Headless Raspberry Pi, and instructions for this application, may be found [in this article](https://www.silverfoxcrafts.com/headless-raspberry-pi/).
 
-See [the current release page](https://github.com/lbussy/headless-pi/releases/tag/v3.0.0) for the pre-compiled executables for this repository.
+See [the current release page](https://github.com/lbussy/headless-pi/releases/latest) for the pre-compiled executables for this repository.
