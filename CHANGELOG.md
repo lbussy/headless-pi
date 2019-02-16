@@ -1,6 +1,12 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
+## [v3.1.0] - 2019-01-30
+### Added
+- Added "file written" notification
+- Selected local country by default
+- Added ability to import locally configured networks
+
 ## [v3.0.0] - 2019-01-30
 ### Added
 - Ported to C#
