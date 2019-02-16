@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to this project will be documented in this file.
 
-## [v3.1.0] - 2019-01-30
+## [v3.1.0] - 2019-02-16
 ### Added
 - Added "file written" notification
 - Selected local country by default
